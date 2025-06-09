@@ -35,6 +35,7 @@ These subject programs were used in a study that evaluated **six state-of-the-ar
 - **DeepSeek-V3** showed strong memory efficiency.
 - **Claude 3.5 Sonnet** struggled with prompt interpretation.
 - Multi-round prompting improved output correctness across all models.
+- .........
 
 ---
 
