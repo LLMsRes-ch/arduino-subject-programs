@@ -6,6 +6,6 @@ Large Language Models (LLMs), also known as Generative AI, have revolutionized c
 
 This repository contains a **set of 31 Arduino subject programs**, each provided with **two optimized reference solutions**, designed to evaluate the effectiveness of LLMs in generating correct, efficient, and high-quality Arduino code. These subject programs support empirical research on LLM performance in microcontroller-based programming environments.
 
-**Code and data are available from the authors upon request.**
+*Code and data are available from the authors upon request.*
 ---
 
